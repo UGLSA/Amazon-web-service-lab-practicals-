@@ -21,4 +21,20 @@ By completing this lab, I was able to launch and access first Amazon EC2 instanc
 
 https://www.youtube.com/watch?v=iUamk08QBHw&index=2&list=PLnaVP3w1Y1mAceZFJdmAFR1moWW9lOpOT
 
+######3. Manage the storage space of your EC2 instance using Amazon EBS
+
+By completing this lab,I was able to learn to create an EC2 instance with an additional EBS volume. I was able to learn to attach and detach an EBS to/from a specific EC2 instance, take a snapshot, and master how to delete a volume.
+Amazon Elastic Block Store (Amazon EBS) provides persistent block level storage volumes for use with Amazon EC2 instances in the AWS Cloud.  
+
+https://www.youtube.com/watch?v=vJpMSh7PjTM&index=3&list=PLnaVP3w1Y1mAceZFJdmAFR1moWW9lOpOT
+
+######4. Create cloud storage bucket using Amazon Simple Storage Service (Amazon S3)
+
+By completing this lab I was able to create a bucket  and its first usage.Amazon Simple Storage Service (Amazon S3), provides secure, durable, and highly-scalable object storage. Amazon S3 allows you to store and retrieve any amount of data from anywhere on the web. You'll pay only for the storage you actually use with no minimum fee and no setup cost. It can be used alone, or together with other AWS services, such as Amazon Elastic Compute Cloud (Amazon EC2), Amazon Elastic Block Store (Amazon EBS), and Amazon Glacier. You can also use Amazon S3 with third-party storage repositories and gateways.
+
+https://www.youtube.com/watch?v=o5Dzgte2aok&index=4&list=PLnaVP3w1Y1mAceZFJdmAFR1moWW9lOpOT
+
+
+
+
 
